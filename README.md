@@ -1,16 +1,12 @@
-### Hi there 👋
+<h2>Hi there 👋 I'm <a href="https://twitter.com/JockeRider199">JockeRider199</a></h2>
+<h3>About me :</h3>
+<p>I'm a computer science student and a self taught developer since ever. I love creating big projects and learning all the latest technologies. I'll post soon my biggest projects. My goal is to become a fullstack developer.</p>
 
-<!--
-**JockeRider199/JockeRider199** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Languages & tools :</h3>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/JockeRider199/JockeRider199/main/assets/dev.png" width="70%">
+</div>
+<h3>Softwares :</h3>
+<div align="center">
+	<img src="https://raw.githubusercontent.com/JockeRider199/JockeRider199/main/assets/apps.png" width="50%">
+</div>
