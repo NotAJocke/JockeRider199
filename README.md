@@ -10,3 +10,9 @@
 <div align="center">
 	<img src="https://raw.githubusercontent.com/JockeRider199/JockeRider199/main/assets/apps.png" width="50%">
 </div>
+<h3>My recent projects :</h3>
+<p>I'm currently working on several projects, sometimes alone, sometimes in team. Feel free to contact me if you want to create something.</p>
+<ul>
+<li><b><a href="https://github.com/Reazon-Team/speaker-app"> Speak'er</a></b>, chats-based multi-platform mobile app.</li>
+<li>More soon...</li>
+</ul>
